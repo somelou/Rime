@@ -1,0 +1,44 @@
+# Rime table
+# coding: utf-8
+#@/db_name  custom_phrase.txt
+#@/db_type	tabledb
+#
+# 用於【朙月拼音】系列輸入方案
+# 【小狼毫】0.9.21 以上
+#
+# 請將該文件以UTF-8編碼保存爲
+# Rime用戶文件夾/custom_phrase.txt
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# 雖然文本碼表編輯較爲方便，但不適合導入大量條目
+#
+# no comment
+
+了	l
+楼佳浩	ljh
+林间君	ljj
+马上到！	msd
+What the fuck!	wtf	1
+WTF	wtf	3
+嘤嘤嘤	yyy	1
+又双叒叕	yyy	2
+nb	nb	2
+🐂️🍺️	nb	1
+等等	==	2
+⌘	cmd
+⌃	ctl
+⌥	opt
+⇧	shift
+lianpianjun@gmail.com	mail	1
+2567443772@qq.com	mail	2
+什么	sm
+为什么	wsm
+怎么	zm	1
+这么	zm	2
+在吗	zm
+咱们	zm
+呵呵	hh
+哈哈哈	hhh
+

@@ -1,0 +1,327 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.4.0
+#@/tick	362
+#@/user_id	f1c9d795-0135-4a3d-9b4c-a295cde06be4
+a 	啊	c=7 d=3.34292 t=362
+an 	按	c=0 d=0.0514274 t=362
+an qi la 	安琪拉	c=1 d=1 t=357
+an ti dui 	按梯隊	c=1 d=0.516851 t=362
+an zhao 	按照	c=1 d=0.594521 t=362
+ba 	吧	c=5 d=2.70759 t=362
+ba 	把	c=1 d=0.882497 t=362
+bai du 	百度	c=1 d=0.946485 t=362
+bang 	榜	c=1 d=0.527292 t=362
+bang shou 	榜首	c=0 d=0.1 t=355
+bao hu 	保護	c=0 d=0.1 t=329
+bao hu ka 	保護卡	c=1 d=1 t=330
+bi jing 	畢竟	c=1 d=0.771052 t=362
+bi ru 	比如	c=1 d=0.690734 t=362
+bi sai 	比賽	c=1 d=0.429557 t=362
+bo cai 	博彩	c=1 d=0.433874 t=362
+bu cun zai 	不存在	c=1 d=0.782705 t=362
+bu hao yi si 	不好意思	c=1 d=0.941765 t=362
+bu jiu 	不就	c=1 d=0.609571 t=362
+bu neng 	不能	c=1 d=0.826959 t=362
+bu tai 	不太	c=0 d=0.0869358 t=362
+bu tai hao 	不太好	c=1 d=0.937067 t=362
+bu tai xing 	不太行	c=1 d=0.873716 t=362
+bu xin 	不信	c=0 d=0.1 t=344
+bu yi yang 	不一樣	c=2 d=0.905877 t=362
+cai 	猜	c=1 d=0.447088 t=362
+can jia 	參加	c=1 d=0.759572 t=362
+can zhao 	參照	c=1 d=0.579842 t=362
+cha bu duo 	差不多	c=1 d=0.565525 t=362
+chong hua 	重畫	c=1 d=0.771052 t=362
+chu li 	處理	c=2 d=1.48908 t=362
+ci chu 	此處	c=2 d=0.861864 t=362
+cuo 	錯	c=1 d=0.496805 t=362
+cuo wu 	錯誤	c=1 d=0.744532 t=362
+da 	打	c=3 d=1.91288 t=362
+da dou 	大都	c=1 d=0.774916 t=362
+da kai 	打開	c=1 d=0.960789 t=362
+da ma 	大嗎	c=1 d=0.571209 t=362
+dan shi 	但是	c=1 d=0.729789 t=362
+dao ru 	導入	c=1 d=0.847894 t=362
+de 	得	c=1 d=0.591555 t=362
+de 	的	c=14 d=7.32195 t=362
+deng deng 	等等	c=1 d=0.650509 t=362
+deng lu 	登錄	c=1 d=0.802519 t=362
+deng zhe 	登着	c=1 d=1 t=334
+di yi ge 	第一個	c=1 d=0.852144 t=362
+dian nao 	電腦	c=1 d=0.882497 t=362
+dong xi 	東西	c=2 d=1.23772 t=362
+dou shuo 	都說	c=1 d=0.88692 t=362
+du nai 	毒奶	c=1 d=0.524663 t=362
+du qu 	讀取	c=1 d=0.715338 t=362
+e luo si 	俄羅斯	c=1 d=0.571209 t=362
+emoji 	Emoji	c=1 d=0.843665 t=362
+en 	恩	c=3 d=1.80448 t=362
+fan bei 	翻倍	c=2 d=0.984826 t=362
+fang kuai 	方塊	c=1 d=0.574072 t=362
+fang lan 	芳蘭	c=0 d=0.0965605 t=362
+fei 	非	c=1 d=0.755784 t=362
+fen fa 	分發	c=1 d=0.412714 t=362
+fen qian 	分錢	c=1 d=0.458406 t=362
+fen xiang 	分享	c=1 d=0.932394 t=362
+fu fei 	付費	c=1 d=0.918512 t=362
+fu zhu 	輔助	c=1 d=1 t=352
+gang kai shi 	剛開始	c=1 d=0.486752 t=362
+gao 	高	c=1 d=1 t=326
+ge 	個	c=1 d=1 t=319
+ge shi 	格式	c=1 d=0.733447 t=362
+gen ni 	跟你	c=0 d=0.0951229 t=362
+gen ni da 	跟你打	c=1 d=0.955997 t=362
+gu shi 	古詩	c=1 d=0.826959 t=362
+gui 	鬼	c=1 d=1 t=347
+guo fu 	國服	c=1 d=1.0802 t=355
+guo fu bang shou 	國服榜首	c=1 d=1 t=356
+ha 	哈	c=1 d=0.67368 t=362
+ha 	鰕	c=1 d=0.625002 t=362
+ha ha ha 	哈哈哈	c=1 d=0.67032 t=362
+hai shi 	還是	c=1 d=0.697676 t=362
+hai xing 	還行	c=3 d=2.20173 t=362
+hai you 	還有	c=1 d=1 t=329
+hai zi 	孩子	c=1 d=0.99005 t=362
+hao 	號	c=1 d=1 t=333
+hao de 	好的	c=2 d=1.32057 t=362
+hao de ba 	好的吧	c=1 d=0.408608 t=362
+hao di 	𨂜地	c=1 d=0.814647 t=362
+hao gao 	好高	c=1 d=1 t=309
+hao le 	好了	c=1 d=0.673889 t=362
+hao qiang 	好強	c=0 d=0.0941765 t=362
+he 	和	c=2 d=0.833539 t=362
+he he 	呵呵	c=2 d=0.905834 t=362
+he ni 	和你	c=1 d=1 t=324
+he wo 	和我	c=1 d=0.562705 t=362
+hou 	後	c=1 d=0.71177 t=362
+hou lai 	後來	c=1 d=0.494109 t=362
+hou xuan 	候選	c=1 d=0.637628 t=362
+hu ya 	虎牙	c=2 d=1.7962 t=362
+hui lai 	回來	c=1 d=1 t=312
+huo de 	獲得	c=2 d=1.44149 t=362
+ji 	幾	c=0 d=0.097531 t=362
+ji 	濟	c=1 d=0.843665 t=362
+ji ba 	幾把	c=1 d=1 t=320
+ji bu de 	記不得	c=1 d=0.551563 t=362
+ji chang 	幾場	c=1 d=0.427415 t=362
+ji fen 	積分	c=1 d=0.438235 t=362
+ji ke 	即刻	c=1 d=0.759572 t=362
+ji lian sheng 	幾連勝	c=1 d=0.980199 t=362
+ji neng 	技能	c=1 d=0.680451 t=362
+jia qian 	加錢	c=1 d=0.690734 t=362
+jiang jie 	講解	c=1 d=0.83527 t=362
+jie kou 	接口	c=0 d=0.0615697 t=362
+jie kou de 	接口的	c=1 d=0.618783 t=362
+jie shu 	結束	c=1 d=0.752014 t=362
+jie xia lai 	接下來	c=1 d=0.423162 t=362
+jing cai bi 	競猜幣	c=3 d=1.5114 t=362
+jiu 	就	c=2 d=1.53717 t=362
+jiu shi 	就是	c=1 d=0.532592 t=362
+jun 	君	c=1 d=0.666977 t=362
+ka 	卡	c=2 d=1.42722 t=362
+kan 	看	c=1 d=0.585669 t=362
+kan bu dong 	看不懂	c=1 d=0.597501 t=362
+kang kang 	康康	c=2 d=1.32399 t=362
+ke yi 	可以	c=1 d=0.496585 t=362
+ken ding 	肯定	c=1 d=0.588605 t=362
+kou tu 	口吐	c=0 d=0.0965605 t=362
+kou tu fang lan 	口吐芳蘭	c=1 d=0.970446 t=362
+kuai jie jian 	快捷鍵	c=1 d=0.790571 t=362
+la ji tong 	垃圾桶	c=1 d=0.631284 t=362
+le 	了	c=5 d=3.18996 t=362
+lei si 	類似	c=1 d=0.431711 t=362
+leng 	冷	c=1 d=0.831104 t=362
+li 	李	c=1 d=0.865022 t=362
+li hao dong 	李昊東	c=1 d=0.895834 t=362
+li zi 	例子	c=1 d=0.621885 t=362
+lian sheng 	連勝	c=1 d=1.08758 t=362
+liang 	兩	c=1 d=0.985112 t=362
+liang ba 	兩把	c=2 d=1.94176 t=328
+liang ge 	兩個	c=1 d=0.822835 t=362
+ling 	領	c=1 d=1 t=335
+lou jia hao 	樓佳浩	c=2 d=1.61316 t=362
+lu 	盧	c=1 d=0.904837 t=362
+luan ma 	亂碼	c=0 d=0.0631284 t=362
+ma 	嗎	c=2 d=0.96279 t=362
+ma 	馬	c=3 d=1.4858 t=362
+mei 	沒	c=1 d=0.748264 t=362
+mei dian 	沒電	c=1 d=0.88692 t=362
+mei ke 	沒課	c=1 d=0.537944 t=362
+mei le 	沒了	c=0 d=0.0546074 t=362
+mei le ba 	沒了吧	c=1 d=0.548812 t=362
+mei tian 	每天	c=1 d=0.410656 t=362
+mei you 	沒有	c=1 d=0.937067 t=362
+meng you 	夢遊	c=1 d=0.579842 t=362
+mian mo 	面膜	c=1 d=1 t=314
+mie ba 	滅霸	c=1 d=0.718924 t=362
+ming 	名	c=2 d=0.898761 t=362
+ming yue 	明月	c=1 d=0.394554 t=362
+mo shi 	模式	c=0 d=0.0618783 t=362
+na 	那	c=1 d=1 t=346
+na shi 	那是	c=1 d=0.965605 t=362
+nan zhi 	南梔	c=1 d=1 t=339
+ni 	你	c=5 d=3.32124 t=362
+ni bu shi 	你不是	c=1 d=0.557106 t=362
+ni dui 	你對	c=0 d=0.1 t=306
+ni dui zi ji 	你對自己	c=1 d=1 t=307
+ni hao qiang 	你好強	c=1 d=0.946485 t=362
+ni ke yi 	你可以	c=1 d=0.57695 t=362
+ni shi 	你是	c=1 d=1 t=358
+ni shuo 	你說	c=1 d=0.600496 t=362
+ni ying gai hai shi 	你應該還是	c=1 d=0.594521 t=362
+ni zai 	你在	c=2 d=1.6524 t=362
+niu 	牛	c=2 d=1.04656 t=362
+pai wei 	排位	c=1 d=0.869358 t=362
+pei lv 	賠率	c=2 d=1.09228 t=362
+pei zhi 	配置	c=1 d=0.806541 t=362
+pi 	皮	c=0 d=0.0532592 t=362
+pi fu 	皮膚	c=1 d=0.802519 t=362
+pi jiu 	啤酒	c=1 d=0.647265 t=362
+pi yi xia 	皮一下	c=1 d=0.535261 t=362
+ping fen 	評分	c=1 d=0.529935 t=362
+ping guo 	蘋果	c=1 d=1 t=331
+qie huan 	切換	c=1 d=0.794534 t=362
+qin shi 	寢室	c=1 d=0.704688 t=362
+ran hou 	然後	c=1 d=0.418952 t=362
+ren jie 	任傑	c=1 d=0.878095 t=362
+rui 	睿	c=2 d=1.52342 t=362
+rui zhi 	睿智	c=1 d=0.514274 t=362
+run 	潤	c=1 d=0.913931 t=362
+san hang 	三行	c=1 d=0.818731 t=362
+san pai 	三排	c=2 d=1.98511 t=313
+shang 	上	c=1 d=0.606531 t=362
+she ji shi 	設計師	c=1 d=0.839457 t=362
+sheng pi 	生僻	c=1 d=0.657047 t=362
+shi 	是	c=2 d=1.38394 t=362
+shi hou 	時候	c=1 d=0.878095 t=362
+shi ji 	實際	c=1 d=0.737123 t=362
+shi jie bei 	世界盃	c=1 d=0.582748 t=362
+shi shi 	實時	c=1 d=0.597501 t=362
+shi xian 	實現	c=1 d=0.628135 t=362
+shu de 	輸的	c=1 d=1 t=327
+shu ju 	數據	c=3 d=2.2078 t=362
+shu le 	輸了	c=1 d=1 t=315
+shu liang 	數量	c=2 d=0.995734 t=362
+shu ru fa 	輸入法	c=1 d=0.786628 t=362
+shu xu guan 	鼠鬚管	c=3 d=1.96611 t=362
+shuo 	說	c=1 d=0.598767 t=362
+shuo hao de 	說好的	c=1 d=0.390628 t=362
+sou suo 	搜索	c=1 d=0.900325 t=362
+suan shi 	算是	c=2 d=1.85086 t=362
+sui ran 	雖然	c=1 d=0.588605 t=362
+suo ha 	梭哈	c=1 d=0.499074 t=362
+ta 	它	c=1 d=0.634448 t=362
+tai 	太	c=1 d=0.856415 t=362
+tai duo 	太多	c=1 d=0.810584 t=362
+tai qiang 	太強	c=0 d=0.099005 t=362
+tao 	滔	c=1 d=0.869358 t=362
+ti dui 	梯隊	c=0 d=0.0514274 t=362
+tian 	天	c=1 d=0.909373 t=362
+tian jia 	添加	c=1 d=0.790571 t=362
+tiao zheng 	調整	c=1 d=0.615697 t=362
+tong yi ge 	同一個	c=1 d=0.472367 t=362
+wa 	哇	c=1 d=1 t=311
+wan 	玩	c=1 d=1 t=348
+wan ni hao 	玩你號	c=1 d=1 t=342
+wang hui 	王輝	c=1 d=0.818731 t=362
+wei 	爲	c=2 d=1.10077 t=362
+wei bo 	微博	c=1 d=0.511709 t=362
+wei le 	爲了	c=1 d=0.778801 t=362
+wei xin 	微信	c=1 d=0.955997 t=362
+wen jian 	文件	c=1 d=0.852144 t=362
+wen jian zhong 	文件中	c=1 d=0.718924 t=362
+wen zi 	文字	c=0 d=0.0631284 t=362
+wen zi luan ma 	文字亂碼	c=1 d=0.634448 t=362
+wo 	我	c=0 d=0.0852144 t=362
+wo cai 	我才	c=0 d=0.1 t=344
+wo cai bu xin 	我才不信	c=1 d=1 t=345
+wo de cuo 	我的錯	c=1 d=0.57695 t=362
+wo dou 	我都	c=1 d=1 t=353
+wo jue de 	我覺得	c=1 d=0.591555 t=362
+wo shuo 	我說	c=0 d=0.0474734 t=362
+wo shuo cuo 	我說錯	c=1 d=0.477114 t=362
+wo xie 	我寫	c=0 d=0.0612626 t=362
+wo xie hao le yi ge 	我寫好了一個	c=1 d=0.615697 t=362
+wo ye bu dong 	我也不懂	c=1 d=0.509156 t=362
+wo zhi qian 	我之前	c=1 d=0.856415 t=362
+xian shi 	顯示	c=1 d=0.644036 t=362
+xian zhi 	限制	c=1 d=0.489192 t=362
+xiang 	享	c=0 d=0.0618783 t=362
+xiang 	想	c=2 d=1.5078 t=362
+xiang yuan mo shi 	享元模式	c=1 d=0.621885 t=362
+xiao mi 	小米	c=1 d=0.83527 t=362
+xiao rui zai 	小睿仔	c=1 d=0.895834 t=362
+xie 	寫	c=1 d=0.628708 t=362
+xin 	新	c=0 d=0.0543351 t=362
+xin tai 	心態	c=1 d=1 t=317
+xin yong hu 	新用戶	c=1 d=0.546074 t=362
+xing 	行	c=1 d=0.947644 t=362
+xing ba 	行吧	c=1 d=0.980199 t=362
+ya 	壓	c=1 d=0.421052 t=362
+ya 	押	c=2 d=1.03897 t=362
+yang 	揚	c=1 d=0.847894 t=362
+yao 	腰	c=1 d=0.683861 t=362
+yao 	要	c=1 d=0.767206 t=362
+yao qing 	邀請	c=1 d=0.543351 t=362
+yao qiu 	要求	c=1 d=1 t=308
+ye 	也	c=0 d=0.099005 t=362
+ye hui 	也會	c=1 d=0.640824 t=362
+ye tai qiang 	也太強	c=1 d=0.995012 t=362
+yi 	已	c=2 d=1.4984 t=362
+yi ban ban 	一般般	c=0 d=0.1 t=305
+yi ding 	一定	c=1 d=0.763379 t=362
+yi ge 	一個	c=3 d=1.97127 t=362
+yi jing 	已經	c=1 d=1 t=323
+yi kuai qian 	一塊錢	c=1 d=0.970446 t=362
+yi xia 	一下	c=1 d=0.917943 t=362
+yi xie 	一些	c=1 d=0.414783 t=362
+yi yang 	一樣	c=1 d=1 t=325
+yin wei 	因爲	c=1 d=0.909373 t=362
+ying 	嚶	c=0 d=0.0637628 t=362
+ying gai hai shi 	應該還是	c=0 d=0.0591555 t=362
+ying gai shi 	應該是	c=1 d=0.460704 t=362
+ying ying 	嚶嚶	c=0 d=0.0637628 t=362
+ying ying ying 	嚶嚶嚶	c=1 d=0.640824 t=362
+ying you 	應有	c=2 d=0.866184 t=362
+yong hu 	用戶	c=0 d=0.0543351 t=362
+yong you 	擁有	c=1 d=0.740818 t=362
+you 	有	c=1 d=1 t=338
+you ren 	有人	c=1 d=1 t=341
+yu le 	娛樂	c=1 d=0.782705 t=362
+yuan 	元	c=0 d=0.0618783 t=362
+yun xing 	運行	c=1 d=0.831104 t=362
+zai 	在	c=1 d=0.680451 t=362
+zai ma 	在嗎	c=1 d=1 t=361
+zan men 	咱們	c=1 d=1 t=362
+zha 	炸	c=1 d=1 t=318
+zhang hao 	帳號	c=1 d=0.806541 t=362
+zhang sheng 	掌聲	c=1 d=0.400517 t=362
+zhao 	趙	c=1 d=0.839457 t=362
+zhao zhe 	照着	c=0 d=0.0603506 t=362
+zhao zhe xie 	照着寫	c=1 d=0.606531 t=362
+zhe ge 	這個	c=1 d=0.582748 t=362
+zhe hai 	這還	c=0 d=0.1 t=305
+zhe hai yi ban ban 	這還一般般	c=1 d=1 t=306
+zhe me 	這麼	c=1 d=0.66365 t=362
+zhe yang 	這樣	c=1 d=0.463013 t=362
+zhen bu rong yi 	真不容易	c=1 d=1 t=362
+zhen bu shi 	真不是	c=1 d=1 t=343
+zhen hao 	真好	c=1 d=0.687289 t=362
+zheng bang 	正榜	c=1 d=0.522046 t=362
+zheng que 	正確	c=1 d=0.70822 t=362
+zheng zai 	正在	c=1 d=0.794534 t=362
+zhi dao 	知道	c=1 d=1 t=359
+zhi jie 	直接	c=1 d=0.927743 t=362
+zhi qian 	之前	c=0 d=0.0852144 t=362
+zhi you 	只有	c=1 d=1 t=354
+zhu shi 	註釋	c=1 d=0.637628 t=362
+zhuan hua wei 	轉化爲	c=1 d=0.729789 t=362
+zi fu chuan 	字符串	c=1 d=0.774916 t=362
+zi ji 	自己	c=1 d=0.860708 t=362
+zou le 	走了	c=0 d=0.0650509 t=362
+zou le ma 	走了馬	c=1 d=0.65377 t=362
+zui duo 	最多	c=1 d=0.451581 t=362
+zui duo de 	最多的	c=1 d=0.440432 t=362
+zui hou 	最後	c=1 d=0.436049 t=362
